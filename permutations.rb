@@ -1,4 +1,4 @@
-testNumber = "josh"
+testNumber = "321"
 
 class Permutations
 
